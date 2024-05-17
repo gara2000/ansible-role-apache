@@ -1,0 +1,5 @@
+# The resulting domain will be [domain].test
+domain: "drupal"
+
+# The path where drupal will be downloaded and installed
+drupal_core_path: "/var/www/drupal"
